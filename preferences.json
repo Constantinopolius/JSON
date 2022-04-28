@@ -1,0 +1,25 @@
+{
+    "Preferencec": [
+      {
+        "Movies": [
+          "The Wolf of Wall Street",
+          "Interstellar",
+          "Tenet",
+          "Inception"
+        ],
+        "TV show": [
+          "La casa de papel",
+          "Mandalorian",
+          "Loki"
+        
+        ],
+      "Food":["Fast food"],
+      "Seasons":["Summer"],
+      "Country":[
+        "Barcelona", 
+        "Sweeden",
+        "United Arab Emirates"
+    ]
+}
+    ]
+}
