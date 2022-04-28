@@ -1,0 +1,10 @@
+{
+    "Full name": "Solovey Konstantsin Sergeevich",
+    "Age": 32,
+    "Pet": [{
+        "Cat": "pet name buckingham",
+        "Breed": "british blue",
+        "Age": 8
+        }],
+    "alary": 2500
+    }
